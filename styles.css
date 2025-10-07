@@ -1,0 +1,21 @@
+*{
+    margin: 10px;
+    padding: 30px;
+}
+h1{
+    color: brown;
+    text-align: center;
+    font-size: 10em;
+}
+p{
+    font-size: 5em;
+}
+ul{
+    font-size: 5em;
+}
+a{
+    color: black;
+}
+li a:hover{
+    color: red;
+}
